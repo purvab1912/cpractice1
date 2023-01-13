@@ -12,4 +12,5 @@ int main ()
     printf ("size of char:%d bytes\n",sizeof d);   
     return 0;
     
+    
 }
